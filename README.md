@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **React, Tailwind CSS, JavaScript, and modern frontend development**
+- 🌱 Currently learning and practicing **React, Tailwind CSS, JavaScript, and modern frontend development**
 - 🔗 Exploring the world of **Web3 and blockchain ecosystems**
 - 💡 Passionate about building clean and responsive user interfaces
 - 🎯 Interested in gaining **real-world experience, internships, freelance work, and collaborations**
@@ -25,10 +25,6 @@
 <p align="left">
 <a href="https://github.com/Ronald-Umoren" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" />
 </a>
 &nbsp;&nbsp;
 <a href="https://twitter.com" target="blank">
