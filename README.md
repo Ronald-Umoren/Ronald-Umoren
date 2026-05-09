@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Ronald-Umoren">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer+in+Progress;Web3+Enthusiast;React+%7C+Tailwind+%7C+JavaScript;Open+to+Internships+and+Opportunities;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;Web3+Enthusiast;React+%7C+Tailwind+%7C+JavaScript;Open+to+Internships+and+Opportunities;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
