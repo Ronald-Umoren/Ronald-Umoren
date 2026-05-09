@@ -1,37 +1,110 @@
-## Hi there, I'm Ronald Umoren 👋
+<h1 align="center">Hi 👋, I'm Ronald Umoren</h1>
+<h3 align="center">Frontend Developer • Web3 Enthusiast • Lifelong Learner</h3>
 
-I am a passionate and highly motivated tech enthusiast with a growing interest in frontend development, Web3 technologies, and building digital experiences that are both functional and user-friendly. Over time, I have developed strong curiosity for how modern applications are designed, structured, and optimized, and I continuously invest time into learning new tools, frameworks, and best practices that improve my skills as a developer.
+<p align="center">
+  <a href="https://github.com/Ronald-Umoren">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer+in+Progress;Web3+Enthusiast;React+%7C+Tailwind+%7C+JavaScript;Open+to+Internships+and+Opportunities;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
 
-Currently, I am focused on expanding my knowledge in technologies such as React, JavaScript, Tailwind CSS, Git, and GitHub, while also exploring the evolving Web3 ecosystem and the opportunities it presents for innovation and community-driven solutions. I enjoy solving problems, learning through hands-on projects, and pushing myself to improve with every project I build.
+---
 
-I am actively open to opportunities where I can gain real-world experience, collaborate with experienced professionals, contribute to meaningful projects, and continue growing both technically and professionally. Whether it is internships, entry-level roles, freelance opportunities, collaborations, or volunteer experience, I am eager to learn, adapt quickly, and bring dedication, consistency, and a strong willingness to improve to any team or project I become part of.
+## 🚀 About Me
 
-I value environments that encourage creativity, teamwork, continuous learning, and growth. As someone still early in my journey, I understand the importance of staying teachable, being resourceful, and maintaining a strong work ethic. I am excited about opportunities that challenge me, help me sharpen my skills, and allow me to contribute positively while gaining practical industry experience.
+- 🌱 Currently learning **React, Tailwind CSS, JavaScript, and modern frontend development**
+- 🔗 Exploring the world of **Web3 and blockchain ecosystems**
+- 💡 Passionate about building clean and responsive user interfaces
+- 🎯 Interested in gaining **real-world experience, internships, freelance work, and collaborations**
+- 📚 Constantly improving through projects and self-learning
+- ⚡ Fun fact: I enjoy turning ideas into interactive digital experiences
 
-I am always open to connecting with developers, founders, recruiters, and like-minded individuals within the tech space. If you are looking for someone who is eager to learn, committed to growth, and passionate about technology and innovation, I would be glad to connect and explore potential opportunities.
+---
 
-## 🚀 Tech Stack
-- React
-- Tailwind CSS
-- JavaScript
-- Git & GitHub
+## 🌐 Connect With Me
 
-## 🌱 Currently Learning
-- React Router
-- API integration
-- Web3 ecosystems
-<!--
-**Ronald-Umoren/Ronald-Umoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href="https://github.com/Ronald-Umoren" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://twitter.com" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="40" />
+</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
 
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ronald-Umoren&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald-Umoren&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ronald-Umoren&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ronald-Umoren&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronald-Umoren&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ronald-Umoren/Ronald-Umoren/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 💭 Developer Mindset
+
+```javascript
+const ronald = {
+  code: ["JavaScript", "React", "HTML", "CSS"],
+  tools: ["Git", "GitHub", "VS Code"],
+  interests: ["Frontend Development", "Web3", "UI/UX"],
+  currentlyLearning: "Advanced React",
+  openToWork: true,
+  mindset: "Learn • Build • Improve • Repeat"
+};
