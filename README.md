@@ -27,7 +27,7 @@
 <img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="40" />
 </a>
 &nbsp;&nbsp;
-<a href="https://twitter.com" target="blank">
+<a href="https://x.com/react_quicker" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="40" />
 </a>
 </p>
